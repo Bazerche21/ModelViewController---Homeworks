@@ -1,0 +1,67 @@
+﻿@model Movie
+
+@{
+    ViewData["Title"] = "Movie Details";
+}
+
+<h2>@Model.Title</h2>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Genre
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Genre
+        </dd>
+        <dt class="col-sm-2">
+            Language
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Language
+        </dd>
+        <dt class="col-sm-2">
+            Release Date
+        </dt>
+        <dd class="col-sm-10">
+            @Model.ReleaseDate.ToString("d")
+        </dd>
+        <dt class="col-sm-2">
+            Length
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Length.ToString(@"hh\:mm")
+        </dd>
+        <dt class="col-sm-2">
+            Age Restriction
+        </dt>
+        <dd class="col-sm-10">
+            @Model.AgeRestriction
+        </dd>
+        <dt class="col-sm-2">
+            Quantity
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Quantity
+        </dd>
+    </dl>
+</div>
+
+<div>
+    @if (Model.Quantity > 0)
+    {
+        <form asp-action="Rent" method="post">
+            <input type="hidden" name="movieId" value="@Model.Id" />
+            <button type="submit" class="btn btn-primary">Rent</button>
+        </form>
+    }
+    else
+    {
+        <span class="text-danger">This movie is not available for rent.</span>
+    }
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

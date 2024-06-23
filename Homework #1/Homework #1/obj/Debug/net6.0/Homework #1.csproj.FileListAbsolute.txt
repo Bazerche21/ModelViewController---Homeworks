@@ -1,0 +1,8 @@
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.csproj.AssemblyReference.cache
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.RazorAssemblyInfo.cache
+C:\Users\matej\OneDrive\Desktop\MVC Homework\Homework #1\Homework #1\obj\Debug\net6.0\Homework #1.RazorAssemblyInfo.cs

@@ -1,0 +1,37 @@
+﻿@using Homework__1.Database
+@model IEnumerable<Rental>
+
+@{
+    ViewData["Title"] = "My Rentals";
+}
+
+<h2>My Rentals</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Rented On</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rental in Model)
+        {
+            var movie = InMemoryDatabase.Movies.FirstOrDefault(m => m.Id == rental.MovieId);
+            if (movie != null)
+            {
+                <tr>
+                    <td>@movie.Title</td>
+                    <td>@rental.RentedOn.ToString("d")</td>
+                    <td>
+                        <form asp-action="Return" method="post">
+                            <input type="hidden" name="rentalId" value="@rental.Id" />
+                            <button type="submit" class="btn btn-primary">Return</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\views\\movies\\myrentals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\views\\movies\\myrentals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\enums\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\enums\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\enums\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\models\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|c:\\users\\matej\\onedrive\\desktop\\mvc homework\\homework #1\\homework #1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28ABA6A2-A63F-4F4A-AF33-83FA1C82443B}|Homework #1\\Homework #1.csproj|solutionrelative:homework #1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRentals.cshtml",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\MyRentals.cshtml",
+              "RelativeDocumentMoniker": "Homework #1\\Views\\Movies\\MyRentals.cshtml",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\MyRentals.cshtml",
+              "RelativeToolTip": "Homework #1\\Views\\Movies\\MyRentals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:47:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Homework #1\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Homework #1\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:45:28.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework #1\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Homework #1\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:44:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework #1\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Homework #1\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:09:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Program.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Program.cs",
+              "RelativeToolTip": "Homework #1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:07:05.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Homework #1\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:00:19.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Homework #1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:56:37.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Database\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Database\\InMemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Database\\InMemoryDatabase.cs",
+              "RelativeToolTip": "Homework #1\\Database\\InMemoryDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:37:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Rental.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:43:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Part.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Enums\\Part.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Part.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Enums\\Part.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:42:44.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cast.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Cast.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Cast.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Cast.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Cast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:42:26.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Enums\\Language.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Language.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Enums\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:41:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\Genre.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Enums\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:41:24.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Movie.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:41:03.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\Enums\\SubscriptionType.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\Enums\\SubscriptionType.cs",
+              "RelativeToolTip": "Homework #1\\Models\\Enums\\SubscriptionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:40:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\User.cs",
+              "RelativeToolTip": "Homework #1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:39:55.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework #1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Homework #1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T13:23:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Homework #1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:23:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Homework #1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\MVC Homework\\Homework #1\\Homework #1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Homework #1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:23:03.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
